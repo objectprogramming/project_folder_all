@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9f20cf45a97707564a5c15eea4e85d0efa88c8a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_5ea75743b31a2053ee64677c247769bd1e6c13c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_6b0f116eb9169c64b869d93052f729e5cd0e2e1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_6e5136dc0fbb3c8f11042f1ca027a7d54c1ce468/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b86ec6629998e74c1d14db0d9f1fb79a032600">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_456969d9e69d7fb31f99ec939a2aee35f3011122/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_5cdae5e573c018a9dd8f606507f4e3a7ba8ebcb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_e29abd8426472a2c53cd724cd5fb4e3f6939131f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f5f29c001fe990d4a6634c63cbafceed82403ee5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a88f8ee4573e00a7e7c074efb3fbbe81d2799b1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aaa87544663e610c8190e5e6d2e1edcf26607abf">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0e1895d5ef2b870ad69cc37382e3bc38186f1a52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_1c83229e87ee290c146f44badaa1a827bcaec49f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_7f7801eda6dfaed69caec34e612e7ce3781fc847/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_c22bd2d2c50869e5a111221b1ffbc29af4faa205/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9bba897d5b4ae2c2a3d12cb805a25e7e1ccc36b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ff7747aec766a03f8826df9eb90e99900e03568f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_6e697a40c5efd30bedabe64b7256d4bb0d7ece00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/albicilla/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_6618bd9c42a36deaa61666654537d621b4f69171/classes.dex" />
+    </item>
+
+</items>

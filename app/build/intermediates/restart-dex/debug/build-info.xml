@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="95422471323175"
+    token="1204926664852155830"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="95130208430967"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="95237700330913"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="95422471323175"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

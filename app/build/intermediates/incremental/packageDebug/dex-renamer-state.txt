@@ -1,0 +1,7 @@
+#Tue Nov 22 12:02:26 JST 2016
+base.0=/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_456969d9e69d7fb31f99ec939a2aee35f3011122
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0e1895d5ef2b870ad69cc37382e3bc38186f1a52/classes.dex
+base.1=/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0e1895d5ef2b870ad69cc37382e3bc38186f1a52
+file.0=/Users/albicilla/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_456969d9e69d7fb31f99ec939a2aee35f3011122/classes.dex
